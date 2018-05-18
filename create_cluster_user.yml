@@ -1,0 +1,16 @@
+---
+ - name: test
+   hosts: localhost
+   gather_facts: no
+   tasks:
+    - name: create cluster user account
+      sf_user_account:
+          hostname: "{{ solidfire_hostname }}"
+          username: "{{ solidfire_username }}"
+          password: "{{ solidfire_password }}"
+          state: present
+          account_name: "{{ solidfire_account_name }}"
+          account_password: "{{ solidfire_account_password }}"
+          user_type: cluster
+          role: administrator
+    - debug: var=result

@@ -1,5 +1,5 @@
-Module documentation tem
-========================
+Module documentation
+====================
 
 .. automodule:: template 
     :members:

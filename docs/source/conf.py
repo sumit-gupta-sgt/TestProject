@@ -14,6 +14,7 @@
 #
 import os
 import sys
+import "github.com/sumit-gupta-sgt/TestProject/tree/master/library/"
 # sys.path.insert(0, os.path.abspath('.'))
 #sys.path.insert(0, os.path.abspath('../../'))
 # -- Project information -----------------------------------------------------

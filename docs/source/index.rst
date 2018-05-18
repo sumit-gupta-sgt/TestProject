@@ -19,6 +19,7 @@ Contents :
 
    ansibleautotask 
    template
+   templatenew
 
 Indices and Tables
 ==================

@@ -19,6 +19,7 @@ Contents :
 
    sf_user_account
    ansibleautotask 
+   template
 
 Indices and Tables
 ==================

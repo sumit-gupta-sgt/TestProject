@@ -2,7 +2,10 @@
 
 class SolidFireUserAccount:
 
-	def random_number_generator(arg1, arg2):
+	def __init__(self):
+	    pass
+
+	def random_number_generator(self, arg1, arg2):
 	    """
 	    Summary line.
 
@@ -22,3 +25,8 @@ class SolidFireUserAccount:
 
 	    """
 	    return 42
+
+
+if __name__ == '__main__':
+	c = SolidFireUserAccount()
+	c.random_number_generator(1,2)	

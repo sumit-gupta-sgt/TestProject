@@ -101,8 +101,8 @@ class MainClass1(object):
 
         :Example:
 
-        >>> import template
-        >>> a = template.MainClass1()
+        >>> import sf_user_account
+        >>> a = sf_user_account.MainClass1()
         >>> a.function1(1,1,1)
         2
 

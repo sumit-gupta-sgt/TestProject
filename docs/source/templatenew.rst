@@ -1,7 +1,7 @@
-Module documentation
-====================
+Module documentationnew
+=======================
 
-.. automodule:: sf_user_account 
+.. automodule:: templatenew
     :members:
     :undoc-members:
     :inherited-members:

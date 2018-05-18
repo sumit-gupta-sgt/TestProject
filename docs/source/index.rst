@@ -17,9 +17,9 @@ Contents :
 .. toctree::
    :maxdepth: 2
 
-   sf_user_account
    ansibleautotask 
    template
+   templatenew
 
 Indices and Tables
 ==================

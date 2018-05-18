@@ -1,1 +1,2 @@
-sudo pip install -r sphinxcontrib-ansibleautodoc
+sphinxcontrib-ansibleautodoc
+pyaml

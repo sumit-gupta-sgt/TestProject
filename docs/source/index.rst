@@ -17,8 +17,8 @@ Contents :
 .. toctree::
    :maxdepth: 2
 
-   ansibleautotask 
    template
+   ansibleautotask 
    templatenew
 
 Indices and Tables
